@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Akhira Nandan Pallepogu from India. I am engineering student from Indian Institute of Information Technology, Guwahati.
+
 <!--
 **akhiranandan/akhiranandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
